@@ -1,0 +1,27 @@
+C:\Users\Next\Desktop\Vstudio\основы алгоритмизации\основы алгоритмизации\obj\Debug\net8.0-windows\Calculator.baml
+C:\Users\Next\Desktop\Vstudio\основы алгоритмизации\основы алгоритмизации\obj\Debug\net8.0-windows\IntervalDefiner.baml
+C:\Users\Next\Desktop\Vstudio\основы алгоритмизации\основы алгоритмизации\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Next\Desktop\Vstudio\основы алгоритмизации\основы алгоритмизации\obj\Debug\net8.0-windows\Calculator.g.cs
+C:\Users\Next\Desktop\Vstudio\основы алгоритмизации\основы алгоритмизации\obj\Debug\net8.0-windows\IntervalDefiner.g.cs
+C:\Users\Next\Desktop\Vstudio\основы алгоритмизации\основы алгоритмизации\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Next\Desktop\Vstudio\основы алгоритмизации\основы алгоритмизации\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Next\Desktop\Vstudio\основы алгоритмизации\основы алгоритмизации\obj\Debug\net8.0-windows\основы алгоритмизации_MarkupCompile.cache
+C:\Users\Next\Desktop\Vstudio\основы алгоритмизации\основы алгоритмизации\bin\Debug\net8.0-windows\основы алгоритмизации.exe
+C:\Users\Next\Desktop\Vstudio\основы алгоритмизации\основы алгоритмизации\bin\Debug\net8.0-windows\основы алгоритмизации.deps.json
+C:\Users\Next\Desktop\Vstudio\основы алгоритмизации\основы алгоритмизации\bin\Debug\net8.0-windows\основы алгоритмизации.runtimeconfig.json
+C:\Users\Next\Desktop\Vstudio\основы алгоритмизации\основы алгоритмизации\bin\Debug\net8.0-windows\основы алгоритмизации.dll
+C:\Users\Next\Desktop\Vstudio\основы алгоритмизации\основы алгоритмизации\bin\Debug\net8.0-windows\основы алгоритмизации.pdb
+C:\Users\Next\Desktop\Vstudio\основы алгоритмизации\основы алгоритмизации\obj\Debug\net8.0-windows\PasswordChecker.baml
+C:\Users\Next\Desktop\Vstudio\основы алгоритмизации\основы алгоритмизации\obj\Debug\net8.0-windows\Translator.baml
+C:\Users\Next\Desktop\Vstudio\основы алгоритмизации\основы алгоритмизации\obj\Debug\net8.0-windows\PasswordChecker.g.cs
+C:\Users\Next\Desktop\Vstudio\основы алгоритмизации\основы алгоритмизации\obj\Debug\net8.0-windows\Translator.g.cs
+C:\Users\Next\Desktop\Vstudio\основы алгоритмизации\основы алгоритмизации\obj\Debug\net8.0-windows\основы алгоритмизации.g.resources
+C:\Users\Next\Desktop\Vstudio\основы алгоритмизации\основы алгоритмизации\obj\Debug\net8.0-windows\основы алгоритмизации.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Next\Desktop\Vstudio\основы алгоритмизации\основы алгоритмизации\obj\Debug\net8.0-windows\основы алгоритмизации.AssemblyInfoInputs.cache
+C:\Users\Next\Desktop\Vstudio\основы алгоритмизации\основы алгоритмизации\obj\Debug\net8.0-windows\основы алгоритмизации.AssemblyInfo.cs
+C:\Users\Next\Desktop\Vstudio\основы алгоритмизации\основы алгоритмизации\obj\Debug\net8.0-windows\основы алгоритмизации.csproj.CoreCompileInputs.cache
+C:\Users\Next\Desktop\Vstudio\основы алгоритмизации\основы алгоритмизации\obj\Debug\net8.0-windows\основы алгоритмизации.dll
+C:\Users\Next\Desktop\Vstudio\основы алгоритмизации\основы алгоритмизации\obj\Debug\net8.0-windows\refint\основы алгоритмизации.dll
+C:\Users\Next\Desktop\Vstudio\основы алгоритмизации\основы алгоритмизации\obj\Debug\net8.0-windows\основы алгоритмизации.pdb
+C:\Users\Next\Desktop\Vstudio\основы алгоритмизации\основы алгоритмизации\obj\Debug\net8.0-windows\основы алгоритмизации.genruntimeconfig.cache
+C:\Users\Next\Desktop\Vstudio\основы алгоритмизации\основы алгоритмизации\obj\Debug\net8.0-windows\ref\основы алгоритмизации.dll
